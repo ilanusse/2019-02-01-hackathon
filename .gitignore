@@ -1,2 +1,8 @@
 *.class
 *.log
+.history
+derby.log
+metastore_db/
+**/target/
+.DS_Store
+.project

@@ -1,7 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/ilanusse/Projects/hackathons/2019-02-01-hackathon/src/main/scala/com/increase/Main.scala:4:8: object SparkSession is not a member of package org.apache.spark.sql[0m
-[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql.SparkSession[0m
-[0m[[0m[31merror[0m] [0m[0m       ^[0m
-[0m[[0m[31merror[0m] [0m[0m/Users/ilanusse/Projects/hackathons/2019-02-01-hackathon/src/main/scala/com/increase/Main.scala:15:24: not found: value SparkSession[0m
-[0m[[0m[31merror[0m] [0m[0m    val sparkSession = SparkSession[0m
-[0m[[0m[31merror[0m] [0m[0m                       ^[0m
-[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
