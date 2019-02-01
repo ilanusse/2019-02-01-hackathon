@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: scala-debugger-api
+Implementation-Version: 1.1.0-M3
+Specification-Vendor: org.scala-debugger
+Specification-Title: scala-debugger-api
+Implementation-Vendor-Id: org.scala-debugger
+Specification-Version: 1.1.0-M3
+Implementation-URL: https://scala-debugger.org
+Implementation-Vendor: org.scala-debugger
+
